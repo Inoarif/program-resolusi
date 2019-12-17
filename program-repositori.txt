@@ -2,3 +2,4 @@ program  repositori
 konsisten membuuat konten 2 kali 2 hari
 membuat video
 membuat form diskusi
+upload video dengan istri
